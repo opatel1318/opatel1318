@@ -7,4 +7,5 @@
 📊 Tableau, Power BI | Data + Backend Projects  
 🚀 Interested in AI, product, and startup tech
 
-📫 Reach me: [LinkedIn] | opatel1318@gmail.com
+📫 Reach me: [LinkedIn](https://linkedin.com/in/ompatel1318) | opatel1318@gmail.com
+
