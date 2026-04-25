@@ -1,7 +1,7 @@
 ## Hi there, I'm Om 👋
 
 🎓 CS + Econ @ Penn State (GPA: 3.9)  
-💻 SWE Intern @ lockheed | Uber Fellow '24
+💻 SWE Intern @ lockheed
 🛠️ Python, JavaScript, SQL, React, Node.js, AWS, Docker  
 📊 Tableau, Power BI | Data + Backend Projects  
 🚀 Interested in AI, product, and startup tech
